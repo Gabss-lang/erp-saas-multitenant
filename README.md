@@ -26,10 +26,6 @@ O roadmap de 0 a 36 meses organiza a evolução da prova de conceito, a validaç
 
 **Documentação para portfólio. O código-fonte, migrations e testes reais ainda não foram anexados.** Não trate esta pasta como um clone executável nem como uma versão estável de produção.
 
-## Segurança
-
-Nunca enviar para o GitHub senhas, chaves, tokens JWT, `.env`, configurações de produção, dados reais de clientes, backups SQL ou logs privados. Confirmar licenciamento e escopo antes de tornar o repositório público.
-
 ## Próximos passos
 
 - Adicionar código-fonte revisado e sem credenciais.
